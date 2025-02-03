@@ -31,5 +31,5 @@
 -- -- Menghitung jumlah mata pelajaran yang tersedia
 -- SELECT COUNT(*) AS total_mapel FROM mata_pelajaran;
 
--- Menghitung rata-rata panjang deskripsi mata pelajaran
-SELECT AVG(LENGTH(deskripsi)) AS rata_rata_panjang_deskripsi FROM mata_pelajaran;
+-- -- Menghitung rata-rata panjang deskripsi mata pelajaran
+-- SELECT AVG(LENGTH(deskripsi)) AS rata_rata_panjang_deskripsi FROM mata_pelajaran;
